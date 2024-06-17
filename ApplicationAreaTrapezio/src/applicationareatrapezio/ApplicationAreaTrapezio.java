@@ -10,6 +10,7 @@ public class ApplicationAreaTrapezio {
         double baseMaior, baseMenor, altura, area;
         System.out.println("Digite o valor da base maior.");
         baseMaior = ler.nextDouble();
+        //TESTE TESTE
         System.out.println("Digite o valor da base menor.");
         baseMenor = ler.nextDouble();
         System.out.println("Digite o valor da altura.");
